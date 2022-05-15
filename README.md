@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aaronbelkinrosen
-- 👀 I’m interested in electronics, digital/analog design, and computer hardware. 
+- 👀 I’m interested in integrated circuits and coding on the side.
 - 📫 How to reach me ... abelkinrosen99@gmail.com
 
 <!---
