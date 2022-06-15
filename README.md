@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aaronbelkinrosen
-- 👀 I’m interested in integrated circuits and coding on the side.
+- 👀 I'm interested in microcontrollers, FPGAs, electronics and dabble in random other stuff on the side.
 - 📫 How to reach me ... abelkinrosen99@gmail.com
 
 <!---
