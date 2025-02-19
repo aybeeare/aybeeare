@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @aaronbelkinrosen
-- 👀 I'm interested in microcontrollers, FPGAs, electronics and dabble in random other stuff on the side.
+- 👋 Hi, I’m Aaron
+- 👀 I'm interested in creating things, mainly with microcontrollers, FPGAs, and electronics, but will also dabble with machine learning and chess on the side.
 - 📫 How to reach me ... abelkinrosen99@gmail.com
 
 <!---
